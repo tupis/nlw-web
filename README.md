@@ -41,7 +41,8 @@ $ npm run dev
 
 Principais tecnologia usada neste projeto
 
-* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem de programação
+* [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) - Linguagem que vai ser rodada
+* [Typescript](https://www.typescriptlang.org/docs/) - Linguagem de programação
 * [React](https://pt-br.reactjs.org/docs/getting-started.html) - A biblioteca web usada
 * [Vite](https://vitejs.dev/guide/) - Build Tool para o React
 
